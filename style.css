@@ -5,6 +5,9 @@ body {
     justify-content: center;
     align-items: center;
     background-image: url("IMG_3799.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
     font-family: "Pixelify Sans", sans-serif;
 }
 
