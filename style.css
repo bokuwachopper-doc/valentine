@@ -9,12 +9,14 @@ body {
     background-repeat: no-repeat;
     background-position: center center;
     font-family: "Pixelify Sans", sans-serif;
+    color: white;
 }
 
 /* Envelope Screen */
 #envelope-container {
     text-align: center;
     cursor:pointer;
+    .colouredText
 }
 
 @keyframes pulse {
